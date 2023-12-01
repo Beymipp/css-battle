@@ -1,0 +1,23 @@
+body{
+    margin:0;
+  }
+  .color-1 {
+    width: 500px;
+    height: 50px;
+    background: #F7EC7D;
+  }
+  .color-2{
+    width: 500px;
+    height: 50px;
+    background:#E38F66;
+  }
+  .color-3{
+    width: 500px;
+    height: 100px;
+    background:#AA445F;
+  }
+  .color-4{
+    width: 500px;
+    height: 100px;
+    background:#62306D;
+  }
